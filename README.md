@@ -7,3 +7,5 @@ Curso: Ciência da Computação
 -[Hello World](https://github.com/Schneiderss/AP1/blob/main/hello_world.c)
 
 -[Variáveis](https://github.com/Schneiderss/AP1/blob/main/vari%C3%A1veis.c)
+
+-[Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/idade%20do%20usu%C3%A1rio.c)
