@@ -6,4 +6,4 @@ Curso: Ciência da Computação
 -----------------------------------------------------------------------------------------------------------------
 -[Hello World]()
 
--[Variáveis]()
+-[Variáveis](https://github.com/Schneiderss/AP1/blob/main/vari%C3%A1veis.c)
