@@ -16,7 +16,7 @@ Curso: Ciência da Computação
 
 -[Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20circulo.c)
 
--[Área de um retângulo]()
+-[Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20retangulo.c)
 
 -[Atribuições aritméticas]()
 
