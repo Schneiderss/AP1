@@ -20,7 +20,7 @@ Curso: Ciência da Computação
 
 -[Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/atribuicoes%20aritmeticas.c)
 
--[Cálculo de IMC]()
+-[Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/calculo%20de%20imc.c)
 
 -[Conversor metro(m) para centímetro(cm) e milímetro(mm)]()
 
