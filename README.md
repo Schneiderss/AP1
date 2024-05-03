@@ -13,3 +13,17 @@ Curso: Ciência da Computação
 ## Exercícios
 
 -[Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/idade%20do%20usu%C3%A1rio.c)
+
+-[Área de um círculo]()
+
+-[Área de um retângulo]()
+
+-[Atribuições aritméticas]()
+
+-[Cálculo de IMC]()
+
+-[Conversor metro(m) para centímetro(cm) e milímetro(mm)]()
+
+-[Conversor Celsius para Fahrenheit]()
+
+-[Média artimética de 3 notas]()
