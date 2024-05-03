@@ -18,7 +18,7 @@ Curso: Ciência da Computação
 
 -[Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20retangulo.c)
 
--[Atribuições aritméticas]()
+-[Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/atribuicoes%20aritmeticas.c)
 
 -[Cálculo de IMC]()
 
