@@ -27,3 +27,12 @@ Curso: Ciência da Computação
 - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/conversor%20celsius%20para%20fahrenheit.c)
 
 - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/media%20aritmetica%20de%203%20notas.c)
+
+- [Juros compostos]()
+
+- [Desconto em produtos]()
+
+- [Conversão de real para dólar]()
+
+- [Média de 3 idades]()
+
