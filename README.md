@@ -6,6 +6,8 @@ Curso: Ciência da Computação
 -----------------------------------------------------------------------------------------------------------------
 ## Aulas
 
+### Aula 01
+
 - [Hello World](https://github.com/Schneiderss/AP1/blob/main/hello_world.c)
 
 - [Variáveis](https://github.com/Schneiderss/AP1/blob/main/vari%C3%A1veis.c)
