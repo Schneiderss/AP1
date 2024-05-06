@@ -30,7 +30,7 @@ Curso: Ciência da Computação
 
 - [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/juros%20compostos.c)
 
-- [Desconto em produtos]()
+- [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/desconto%20em%20produtos.c)
 
 - [Conversão de real para dólar]()
 
