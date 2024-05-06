@@ -28,7 +28,7 @@ Curso: Ciência da Computação
 
 - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/media%20aritmetica%20de%203%20notas.c)
 
-- [Juros compostos]()
+- [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/juros%20compostos.c)
 
 - [Desconto em produtos]()
 
