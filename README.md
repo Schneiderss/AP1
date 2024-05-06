@@ -12,7 +12,7 @@ Curso: Ciência da Computação
 
 ## Exercícios
 
--[Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/idade%20do%20usu%C3%A1rio.c)
+- [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/idade%20do%20usu%C3%A1rio.c)
 
 -[Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20circulo.c)
 
