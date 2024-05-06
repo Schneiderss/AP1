@@ -34,5 +34,5 @@ Curso: Ciência da Computação
 
 - [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/convers%C3%A3o%20de%20real%20para%20dolar.c)
 
-- [Média de 3 idades]()
+- [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/media%20de%203%20idades.c)
 
