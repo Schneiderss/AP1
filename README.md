@@ -32,7 +32,7 @@ Curso: Ciência da Computação
 
 - [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/desconto%20em%20produtos.c)
 
-- [Conversão de real para dólar]()
+- [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/convers%C3%A3o%20de%20real%20para%20dolar.c)
 
 - [Média de 3 idades]()
 
