@@ -4,14 +4,13 @@
 int main(){
 
 	int i1, i2, i3;
-	float m;
 	
-	//Permitindo que o programa leia acentos(transforma ponto em vÌrgula)
+	//Permitindo que o programa leia acentos(transforma ponto em v√≠rgula)
 	setlocale(LC_ALL, "Portuguese");
 	
-	printf("Descubra a mÈdia entre 3 idades!\n\n");
+	printf("Descubra a m√©dia entre 3 idades!\n\n");
 	
-	//Solicitando as idades para o usu·rio
+	//Solicitando as idades para o usu√°rio
 	printf("Digite a primeira idade: ");
 	scanf("%d", &i1);
 	
@@ -21,7 +20,7 @@ int main(){
 	printf("Digite a terceira idade: ");
 	scanf("%d", &i3);
 	
-	//Printando o resultado da mÈdia para o usu·rio
-	printf("\nA mÈdia entre as idades %d, %d e %d anos È %.2f!\n", i1, i2, i3, (i1+i2+i3)/3.0);
+	//Printando o resultado da m√©dia para o usu√°rio
+	printf("\nA m√©dia entre as idades %d, %d e %d anos √© %.2f!\n", i1, i2, i3, (i1+i2+i3)/3.0);
 	
 }
