@@ -3,19 +3,19 @@
 
 int main(){
 	
-	setlocale(LC_ALL, "Portuguese");
+	setlocale(LC_ALL, "Portuguese");//Transforma ponto em vÃ­rgula
 	
 	float n1;
 	float n2;
 	
-	printf("Digite um número inteiro: ");
+	printf("Digite um nÃºmero inteiro: ");
 	scanf("%f", &n1);
-	printf("Digite outro número: ");
+	printf("Digite outro nÃºmero: ");
 	scanf("%f", &n2);
 	
-	printf("\nA soma entre %.0f e %.0f é %.0f \n", n1, n2, n1+n2);
-	printf("A diferença entre %.0f e %.0f é %.0f \n", n1, n2, n1-n2);
-	printf("A multiplicação entre %.0f e %.0f é %.0f \n", n1, n2, n1*n2);
-	printf("A divisão entre %.0f e %.0f é %.4f", n1, n2, n1/n2);
+	printf("\nA soma entre %.0f e %.0f Ã© %.0f \n", n1, n2, n1+n2);
+	printf("A diferenÃ§a entre %.0f e %.0f Ã© %.0f \n", n1, n2, n1-n2);
+	printf("A multiplicaÃ§Ã£o entre %.0f e %.0f Ã© %.0f \n", n1, n2, n1*n2);
+	printf("A divisÃ£o entre %.0f e %.0f Ã© %.4f", n1, n2, n1/n2);
 	
 }
