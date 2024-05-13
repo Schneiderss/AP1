@@ -56,7 +56,7 @@ Curso: Ciência da Computação
 
    #### Lista 04
 
-   - [Avaliação]()
+   - [Avaliação](https://github.com/Schneiderss/AP1/blob/main/avaliacao.c)
 
    - [Mês correspondente]()
 
