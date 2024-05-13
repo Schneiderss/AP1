@@ -48,7 +48,7 @@ Curso: Ciência da Computação
 
    - [Ano bissexto](https://github.com/Schneiderss/AP1/blob/main/ano%20bissexto.c)
 
-   - [IMC, com classificação]()
+   - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/imc.c)
 
    - [Número ímpar ou par]()
 
