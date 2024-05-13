@@ -4,15 +4,15 @@
 
 int main(){
 	
-	setlocale(LC_ALL, "Portuguese");
+	setlocale(LC_ALL, "Portuguese");//Transforma ponto em v√≠rgula
 	
 	float raio;
 	const double pi = 3.14159265;
 	
-	printf("Descubra a ·rea de um cÌrculo qualquer!\n\n");
-	printf("Informe o raio do cÌrculo: ");
+	printf("Descubra a √°rea de um c√≠rculo qualquer!\n\n");
+	printf("Informe o raio do c√≠rculo: ");
 	scanf("%f", &raio);
 	
-	printf("\nA ·rea desse cÌrculo È %.2f!", pi*pow(raio, 2));
+	printf("\nA √°rea desse c√≠rculo √© %.2f!", pi*pow(raio, 2));
 	
 }
