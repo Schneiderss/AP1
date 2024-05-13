@@ -60,7 +60,7 @@ Curso: Ciência da Computação
 
    - [Mês correspondente](https://github.com/Schneiderss/AP1/blob/main/mes%20correspondente.c)
 
-   - [Número positivo, negativo ou nulo]()
+   - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/numero%20positivo%2C%20negativo%20ou%20nulo.c)
 
    - [Operações matemáticas]()
 
