@@ -44,7 +44,7 @@ Curso: Ciência da Computação
 
    #### Lista 03
 
-   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/edit/main/README.md)
+   - [Aluno aprovado ou não]()
 
    - [Ano bissexto]()
 
