@@ -50,7 +50,7 @@ Curso: Ciência da Computação
 
    - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/imc.c)
 
-   - [Número ímpar ou par]()
+   - [Número ímpar ou par](https://github.com/Schneiderss/AP1/blob/main/numero%20impar%20ou%20par.c)
 
    - [Permissão para dirigir]()
 
