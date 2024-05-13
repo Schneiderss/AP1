@@ -42,3 +42,28 @@ Curso: Ciência da Computação
 
    - [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/media%20de%203%20idades.c)
 
+   #### Lista 03
+
+   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/edit/main/README.md)
+
+   - [Ano bissexto]()
+
+   - [IMC, com classificação]()
+
+   - [Número ímpar ou par]()
+
+   - [Permissão para dirigir]()
+
+   #### Lista 04
+
+   - [Avaliação]()
+
+   - [Mês correspondente]()
+
+   - [Número positivo, negativo ou nulo]()
+
+   - [Operações matemáticas]()
+
+   - [Saudação baseada no horário]()
+
+   
