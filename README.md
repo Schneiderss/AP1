@@ -62,7 +62,7 @@ Curso: Ciência da Computação
 
    - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/numero%20positivo%2C%20negativo%20ou%20nulo.c)
 
-   - [Operações matemáticas]()
+   - [Operações matemáticas](https://github.com/Schneiderss/AP1/blob/main/operacoes%20matematicas.c)
 
    - [Saudação baseada no horário]()
 
