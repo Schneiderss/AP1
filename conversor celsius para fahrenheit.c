@@ -3,7 +3,7 @@
 
 int main(){
 	
-	setlocale(LC_ALL, "Portuguese");
+	setlocale(LC_ALL, "Portuguese");//Transforma ponto em vírgula
 	
 	float temp;
 	
@@ -11,6 +11,6 @@ int main(){
 	printf("Digite uma temperatura em Celsius: ");
 	scanf("%f", &temp);
 	
-	printf("\nA temperatura em Fahrenheit �: %.2f", temp*9/5+32);
+	printf("\nA temperatura em Fahrenheit é: %.2f", temp*9/5+32);
 	
 }
