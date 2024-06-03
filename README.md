@@ -12,6 +12,14 @@ Curso: Ciência da Computação
 
    - [Variáveis](https://github.com/Schneiderss/AP1/blob/main/vari%C3%A1veis.c)
 
+   #### Aula 02
+   
+   - [Estrutura sequencial]()
+
+   #### Aula 03
+
+   - [Laços de repetição]()
+
 ## Exercícios
 
    #### Lista 01
