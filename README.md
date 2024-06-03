@@ -28,55 +28,55 @@ Curso: Ciência da Computação
 
    #### Lista 01
   
-   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/idade%20do%20usu%C3%A1rio.c)
+   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Lista01/idade%20do%20usuário.c)
 
-   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20circulo.c)
+   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/Lista01/area%20de%20um%20circulo.c)
 
-   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/area%20de%20um%20retangulo.c)
+   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/Lista01/area%20de%20um%20retangulo.c)
 
-   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/atribuicoes%20aritmeticas.c)
+   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/Lista01/atribuicoes%20aritmeticas.c)
 
-   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/calculo%20de%20imc.c)
+   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/Lista01/calculo%20de%20imc.c)
 
-   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/conversor%20(m)%20para%20(cm)%20e%20(mm).c)
+   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/Lista01/conversor%20(m)%20para%20(cm)%20e%20(mm).c)
 
-   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/conversor%20celsius%20para%20fahrenheit.c)
+   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/Lista01/conversor%20celsius%20para%20fahrenheit.c)
 
-   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/media%20aritmetica%20de%203%20notas.c)
+   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Lista01/media%20aritmetica%20de%203%20notas.c)
 
    #### Lista 02
   
-   - [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/juros%20compostos.c)
+   - [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/Lista02/juros%20compostos.c)
 
-   - [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/desconto%20em%20produtos.c)
+   - [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/Lista02/desconto%20em%20produtos.c)
 
-   - [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/convers%C3%A3o%20de%20real%20para%20dolar.c)
+   - [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/Lista02/conversão%20de%20real%20para%20dolar.c)
 
-   - [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/media%20de%203%20idades.c)
+   - [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/Lista02/media%20de%203%20idades.c)
 
    #### Lista 03
 
-   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/blob/main/aluno%20aprovado%20ou%20nao.c)
+   - [Aluno aprovado ou não]()
 
-   - [Ano bissexto](https://github.com/Schneiderss/AP1/blob/main/ano%20bissexto.c)
+   - [Ano bissexto]()
 
-   - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/imc.c)
+   - [IMC, com classificação]()
 
-   - [Número ímpar ou par](https://github.com/Schneiderss/AP1/blob/main/numero%20impar%20ou%20par.c)
+   - [Número ímpar ou par]()
 
-   - [Permissão para dirigir](https://github.com/Schneiderss/AP1/blob/main/permissao%20para%20dirigir.c)
+   - [Permissão para dirigir]()
 
    #### Lista 04
 
-   - [Avaliação](https://github.com/Schneiderss/AP1/blob/main/avaliacao.c)
+   - [Avaliação]()
 
-   - [Mês correspondente](https://github.com/Schneiderss/AP1/blob/main/mes%20correspondente.c)
+   - [Mês correspondente]()
 
-   - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/numero%20positivo%2C%20negativo%20ou%20nulo.c)
+   - [Número positivo, negativo ou nulo]()
 
-   - [Operações matemáticas](https://github.com/Schneiderss/AP1/blob/main/operacoes%20matematicas.c)
+   - [Operações matemáticas]()
 
-   - [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/sauda%C3%A7ao%20baseada%20no%20horario.c)
+   - [Saudação baseada no horário]()
 
    
    #### Lista 05
