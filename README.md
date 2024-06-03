@@ -56,34 +56,40 @@ Curso: Ciência da Computação
 
    #### Lista 03
 
-   - [Aluno aprovado ou não]()
+   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/blob/main/Lista03/aluno%20aprovado%20ou%20nao.c)
 
-   - [Ano bissexto]()
+   - [Ano bissexto](https://github.com/Schneiderss/AP1/blob/main/Lista03/ano%20bissexto.c)
 
-   - [IMC, com classificação]()
+   - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/Lista03/imc.c)
 
-   - [Número ímpar ou par]()
+   - [Número ímpar ou par](https://github.com/Schneiderss/AP1/blob/main/Lista03/numero%20impar%20ou%20par.c)
 
-   - [Permissão para dirigir]()
+   - [Permissão para dirigir](https://github.com/Schneiderss/AP1/blob/main/Lista03/permissao%20para%20dirigir.c)
 
    #### Lista 04
 
-   - [Avaliação]()
+   - [Avaliação](https://github.com/Schneiderss/AP1/blob/main/Lista04/avaliacao.c)
 
-   - [Mês correspondente]()
+   - [Avaliação(Switch)](https://github.com/Schneiderss/AP1/blob/main/Lista04/avaliacao(switch).c)
 
-   - [Número positivo, negativo ou nulo]()
+   - [Mês correspondente](https://github.com/Schneiderss/AP1/blob/main/Lista04/mes%20correspondente.c)
 
-   - [Operações matemáticas]()
+   - [Mês correspondente(Switch)](https://github.com/Schneiderss/AP1/blob/main/Lista04/mes%20correspondente(switch).c)
 
-   - [Saudação baseada no horário]()
+   - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/Lista04/numero%20positivo%2C%20negativo%20ou%20nulo.c)
+
+   - [Operações matemáticas](https://github.com/Schneiderss/AP1/blob/main/Lista04/operacoes%20matematicas.c)
+
+   - [Operações matemáticas(Switch)](https://github.com/Schneiderss/AP1/blob/main/Lista04/operacoes%20matematicas(switch).c)
+
+   - [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/Lista04/saudaçao%20baseada%20no%20horario.c)
 
    
    #### Lista 05
 
-   - [Menu]()
+   - [Menu](https://github.com/Schneiderss/AP1/blob/main/Lista05/menu.c)
 
    #### Lista 06
 
-   - [Menu(2)]()
+   - [Menu(2)](https://github.com/Schneiderss/AP1/blob/main/Lista06/menu(2).c)
 
