@@ -20,6 +20,10 @@ Curso: Ciência da Computação
 
    - [Laços de repetição]()
 
+## Avaliações
+
+- [1ªAvaliação]()
+
 ## Exercícios
 
    #### Lista 01
@@ -75,3 +79,11 @@ Curso: Ciência da Computação
    - [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/sauda%C3%A7ao%20baseada%20no%20horario.c)
 
    
+   #### Lista 05
+
+   - [Menu]()
+
+   #### Lista 06
+
+   - [Menu(2)]()
+
