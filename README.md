@@ -8,17 +8,17 @@ Curso: Ciência da Computação
 
    #### Aula 01
 
-   - [Hello World](https://github.com/Schneiderss/AP1/blob/main/hello_world.c)
+   - [Hello World](https://github.com/Schneiderss/AP1/blob/main/Aula01/hello_world.c)
 
-   - [Variáveis](https://github.com/Schneiderss/AP1/blob/main/vari%C3%A1veis.c)
+   - [Variáveis](https://github.com/Schneiderss/AP1/blob/main/Aula01/variáveis.c)
 
    #### Aula 02
    
-   - [Estrutura sequencial]()
+   - [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Aula02/estrutura%20sequencial.c)
 
    #### Aula 03
 
-   - [Laços de repetição]()
+   - [Laços de repetição](https://github.com/Schneiderss/AP1/blob/main/Aula03/lacos.c)
 
 ## Avaliações
 
