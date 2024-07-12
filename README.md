@@ -95,7 +95,7 @@ Curso: Ciência da Computação
 
    #### Lista 07
 
-   - [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Lista07/encontrarVetor.c)
+   - [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Lista07/encontrarNumerosVetor.c)
 
    - [maiorOuMenorVetor](https://github.com/Schneiderss/AP1/blob/main/Lista07/maiorOuMenorVetor.c)
 
