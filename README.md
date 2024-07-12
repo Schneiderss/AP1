@@ -109,13 +109,12 @@ Curso: Ciência da Computação
 
    - [manipulandoStrings](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings.c)
 
-   - [manipulandoStrings(1)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(1).c)
-
    - [manipulandoStrings(2)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(2).c)
 
    - [manipulandoStrings(3)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(3).c)
 
    - [manipulandoStrings(4)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(4).c)
+
 
    #### Lista 09
 
