@@ -93,3 +93,38 @@ Curso: Ciência da Computação
 
    - [Menu(2)](https://github.com/Schneiderss/AP1/blob/main/Lista06/menu(2).c)
 
+   #### Lista 07
+
+   - [encontrarNumerosVetor]()
+
+   - [maiorOuMenorVetor]()
+
+   - [mediaComVetores]()
+
+   - [vetorDobro]()
+
+   - [vetorInverso]()
+
+   #### Lista 08
+
+   - [manipulandoStrings]()
+
+   - [manipulandoStrings(1)]()
+
+   - [manipulandoStrings(2)]()
+
+   - [manipulandoStrings(3)]()
+
+   - [manipulandoStrings(4)]()
+
+   #### Lista 09
+
+   - [matrizMaior]()
+
+   - [matrizNome]()
+
+   - [matrizNotas]()
+
+   - [matrizOrganizada]()
+
+   - [matrizProcurar]()
