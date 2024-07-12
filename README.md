@@ -95,36 +95,36 @@ Curso: Ciência da Computação
 
    #### Lista 07
 
-   - [encontrarNumerosVetor]()
+   - [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Lista07/encontrarVetor.c)
 
-   - [maiorOuMenorVetor]()
+   - [maiorOuMenorVetor](https://github.com/Schneiderss/AP1/blob/main/Lista07/maiorOuMenorVetor.c)
 
-   - [mediaComVetores]()
+   - [mediaComVetores](https://github.com/Schneiderss/AP1/blob/main/Lista07/mediaComVetores.c)
 
-   - [vetorDobro]()
+   - [vetorDobro](https://github.com/Schneiderss/AP1/blob/main/Lista07/vetorDobro.c)
 
-   - [vetorInverso]()
+   - [vetorInverso](https://github.com/Schneiderss/AP1/blob/main/Lista07/vetorInverso.c)
 
    #### Lista 08
 
-   - [manipulandoStrings]()
+   - [manipulandoStrings](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings.c)
 
-   - [manipulandoStrings(1)]()
+   - [manipulandoStrings(1)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(1).c)
 
-   - [manipulandoStrings(2)]()
+   - [manipulandoStrings(2)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(2).c)
 
-   - [manipulandoStrings(3)]()
+   - [manipulandoStrings(3)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(3).c)
 
-   - [manipulandoStrings(4)]()
+   - [manipulandoStrings(4)](https://github.com/Schneiderss/AP1/blob/main/Lista08/manipulandoStrings(4).c)
 
    #### Lista 09
 
-   - [matrizMaior]()
+   - [matrizMaior](https://github.com/Schneiderss/AP1/blob/main/Lista09/matrizMaior.c)
 
-   - [matrizNome]()
+   - [matrizNome](https://github.com/Schneiderss/AP1/blob/main/Lista09/matrizNome.c)
 
-   - [matrizNotas]()
+   - [matrizNotas](https://github.com/Schneiderss/AP1/blob/main/Lista09/matrizNotas.c)
 
-   - [matrizOrganizada]()
+   - [matrizOrganizada](https://github.com/Schneiderss/AP1/blob/main/Lista09/matrizOrganizada.c)
 
-   - [matrizProcurar]()
+   - [matrizProcurar](https://github.com/Schneiderss/AP1/blob/main/Lista09/matrizProcurar.c)
