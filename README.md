@@ -30,21 +30,21 @@ Curso: Ciência da Computação
 
    #### Lista 01
   
-   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/)
+   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/idade%20do%20usuário.c)
 
-   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/area%20de%20um%20circulo.c)
 
-   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/area%20de%20um%20retangulo.c)
 
-   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/atribuicoes%20aritmeticas.c)
 
-   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/calculo%20de%20imc.c)
 
-   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/conversor%20(m)%20para%20(cm)%20e%20(mm).c)
 
-   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/conversor%20celsius%20para%20fahrenheit.c)
 
-   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
+   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/media%20aritmetica%20de%203%20notas.c)
 
    #### Lista 02
   
