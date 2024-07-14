@@ -8,31 +8,31 @@ Códigos desenvolvidos durante as aulas de Algoritmo e Programação 1 (AP1) da 
 
 Curso: Ciência da Computação
 
-## Aulas
+# Aulas
 
-   #### Aula 01
+   ### Aula 01
 
    🎱 [Hello World](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01/hello_world.c)
 
    🎱 [Variáveis](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01/variáveis.c)
 
-   #### Aula 02
+   ### Aula 02
    
    🎱 [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula02/estrutura%20sequencial.c)
 
-   #### Aula 03
+   ### Aula 03
 
    🎱 [Laços de repetição](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula03/lacos.c)
 
-## Avaliações
+# Avaliações
 
 🎱 [1ªAvaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/1ªAvaliação/calculoDesconto.c)
 
 🎱 [2ªAvaliação]()
 
-## Exercícios
+# Exercícios
 
-   #### Lista 01
+   ### Lista 01
   
    🎱 [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/idade%20do%20usuário.c)
 
@@ -50,7 +50,7 @@ Curso: Ciência da Computação
 
    🎱 [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/media%20aritmetica%20de%203%20notas.c)
 
-   #### Lista 02
+   ### Lista 02
   
    🎱 [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/juros%20compostos.c)
 
@@ -60,7 +60,7 @@ Curso: Ciência da Computação
 
    🎱 [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/media%20de%203%20idades.c)
 
-   #### Lista 03
+   ### Lista 03
 
    🎱 [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/aluno%20aprovado%20ou%20nao.c)
 
@@ -72,7 +72,7 @@ Curso: Ciência da Computação
 
    🎱 [Permissão para dirigir](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/permissao%20para%20dirigir.c)
 
-   #### Lista 04
+   ### Lista 04
 
    🎱 [Avaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/avaliacao.c)
 
@@ -91,15 +91,15 @@ Curso: Ciência da Computação
    🎱 [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/saudaçao%20baseada%20no%20horario.c)
 
    
-   #### Lista 05
+   ### Lista 05
 
    🎱 [Menu](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista05/menu.c)
 
-   #### Lista 06
+   ### Lista 06
 
    🎱 [Menu(2)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista06/menu(2).c)
 
-   #### Lista 07
+   ### Lista 07
 
    🎱 [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/encontrarNumerosVetor.c)
 
@@ -111,7 +111,7 @@ Curso: Ciência da Computação
 
    🎱 [vetorInverso](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/vetorInverso.c)
 
-   #### Lista 08
+   ### Lista 08
 
    🎱 [manipulandoStrings](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings.c)
 
@@ -122,7 +122,7 @@ Curso: Ciência da Computação
    🎱 [manipulandoStrings(4)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings(4).c)
 
 
-   #### Lista 09
+   ### Lista 09
 
    🎱 [matrizMaior](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizMaior.c)
 
