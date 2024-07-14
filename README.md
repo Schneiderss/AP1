@@ -1,4 +1,8 @@
-# AP1
+<div align="center">
+  <a>
+    <img height="200" width="300" src="">
+  </a>
+</div>
 
 Códigos desenvolvidos durante as aulas de Algoritmo e Programação 1 (AP1) da Universidade Federal de Jataí (UFJ)
 
