@@ -14,15 +14,15 @@ Curso: Ciência da Computação
 
    #### Aula 02
    
-   - [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula02/estruturasequencial.c)
+   - [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula02/estrutura%20sequencial.c)
 
    #### Aula 03
 
-   - [Laços de repetição](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Laços de repetição](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula03/lacos.c)
 
 ## Avaliações
 
-- [1ªAvaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+- [1ªAvaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/1ªAvaliação/calculoDesconto.c)
 
 - [2ªAvaliação]()
 
