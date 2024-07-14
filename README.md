@@ -1,6 +1,6 @@
 <div align="center">
   <a>
-    <img height="150" width="900" src="https://github.com/Schneiderss/AP1/blob/main/Materiais/assets/output-onlinegiftools%20(4)%20(1).gif">
+    <img height="140" width="900" src="https://github.com/Schneiderss/AP1/blob/main/Materiais/assets/output-onlinegiftools%20(4)%20(1).gif">
   </a>
 </div>
 
