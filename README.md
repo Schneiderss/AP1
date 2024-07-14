@@ -14,7 +14,7 @@ Curso: Ciência da Computação
 
    #### Aula 02
    
-   - [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula02/estrutura%sequencial.c)
+   - [Estrutura sequencial](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula02/estruturasequencial.c)
 
    #### Aula 03
 
