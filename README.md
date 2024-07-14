@@ -28,7 +28,7 @@ Curso: Ciência da Computação
 
 🎱 [1ªAvaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/1ªAvaliação/calculoDesconto.c)
 
-🎱 [2ªAvaliação]()
+🎱 [2ªAvaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/2ªAvaliação/menuEscolar.c)
 
 # Exercícios
 
