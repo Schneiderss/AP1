@@ -8,7 +8,7 @@ Curso: Ciência da Computação
 
    #### Aula 01
 
-   - [Hello World](https://github.com/Schneiderss/AP1/blob/main/Aula01/hello_world.c)
+   - [Hello World](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01/hello_world.c)
 
    - [Variáveis](https://github.com/Schneiderss/AP1/blob/main/Aula01/variáveis.c)
 
