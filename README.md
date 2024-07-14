@@ -48,87 +48,87 @@ Curso: Ciência da Computação
 
    #### Lista 02
   
-   - [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Juros compostos](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/juros%20compostos.c)
 
-   - [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Desconto em produtos](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/desconto%20em%20produtos.c)
 
-   - [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Conversão de real para dólar](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/conversão%20de%20real%20para%20dolar.c)
 
-   - [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Média de 3 idades](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista02/media%20de%203%20idades.c)
 
    #### Lista 03
 
-   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Aluno aprovado ou não](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/aluno%20aprovado%20ou%20nao.c)
 
-   - [Ano bissexto](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Ano bissexto](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/ano%20bissexto.c)
 
-   - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [IMC, com classificação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/imc.c)
 
-   - [Número ímpar ou par](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Número ímpar ou par](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/numero%20impar%20ou%20par.c)
 
-   - [Permissão para dirigir](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Permissão para dirigir](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista03/permissao%20para%20dirigir.c)
 
    #### Lista 04
 
-   - [Avaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Avaliação](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/avaliacao.c)
 
-   - [Avaliação(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Avaliação(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/avaliacao(switch).c)
 
-   - [Mês correspondente](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Mês correspondente](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/mes%20correspondente.c)
 
-   - [Mês correspondente(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Mês correspondente(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/mes%20correspondente(switch).c)
 
-   - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Número positivo, negativo ou nulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/numero%20positivo,%20negativo%20ou%20nulo.c)
 
-   - [Operações matemáticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Operações matemáticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/operacoes%20matematicas.c)
 
-   - [Operações matemáticas(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Operações matemáticas(Switch)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/operacoes%20matematicas(switch).c)
 
-   - [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Saudação baseada no horário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista04/saudaçao%20baseada%20no%20horario.c)
 
    
    #### Lista 05
 
-   - [Menu](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Menu](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista05/menu.c)
 
    #### Lista 06
 
-   - [Menu(2)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Menu(2)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista06/menu(2).c)
 
    #### Lista 07
 
-   - [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [encontrarNumerosVetor](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/encontrarNumerosVetor.c)
 
-   - [maiorOuMenorVetor](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [maiorOuMenorVetor](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/maiorOuMenorVetor.c)
 
-   - [mediaComVetores](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [mediaComVetores](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/mediaComVetores.c)
 
-   - [vetorDobro](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [vetorDobro](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/vetorDobro.c)
 
-   - [vetorInverso](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [vetorInverso](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista07/vetorInverso.c)
 
    #### Lista 08
 
-   - [manipulandoStrings](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [manipulandoStrings](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings.c)
 
-   - [manipulandoStrings(2)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [manipulandoStrings(2)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings(2).c)
 
-   - [manipulandoStrings(3)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [manipulandoStrings(3)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings(3).c)
 
-   - [manipulandoStrings(4)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [manipulandoStrings(4)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista08/manipulandoStrings(4).c)
 
 
    #### Lista 09
 
-   - [matrizMaior](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [matrizMaior](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizMaior.c)
 
-   - [matrizNome](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [matrizNome](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizNome.c)
 
-   - [matrizNotas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [matrizNotas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizNotas.c)
 
-   - [matrizOrganizada](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [matrizOrganizada](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizOrganizada.c)
 
-   - [matrizProcurar](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [matrizProcurar](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista09/matrizProcurar.c)
 
 <div align="center">
   <a>
