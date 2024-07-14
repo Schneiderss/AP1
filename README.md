@@ -30,21 +30,21 @@ Curso: Ciência da Computação
 
    #### Lista 01
   
-   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Idade do usuário](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01/)
 
-   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Área de um círculo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Área de um retângulo](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Atribuições aritméticas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Cálculo de IMC](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Conversor metro(m) para centímetro(cm) e milímetro(mm)](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Conversor Celsius para Fahrenheit](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
-   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Aula01)
+   - [Média artimética de 3 notas](https://github.com/Schneiderss/AP1/blob/main/Materiais/Lista01)
 
    #### Lista 02
   
